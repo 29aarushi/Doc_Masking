@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+streamlit
+scikit-learn
+plotly
+opencv-python
+wordcloud
+graphviz
+ultralytics
+paddlepaddle
+paddleocr
+ikomia
+deskew
+
+-e .
